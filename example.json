@@ -1,0 +1,139 @@
+{
+  "id": 6769635131490,
+  "title": "Hot Ones Jr. The Red | Hot Ones Hot Sauce",
+  "handle": "hot-ones-jr-the-red-hot-ones-hot-sauce",
+  "description": "<p data-mce-fragment=\"1\"><span style=\"font-weight: 400;\" data-mce-fragment=\"1\" data-mce-style=\"font-weight: 400;\">Juicy pomegranate and cranberry mix with sweet red pepper and fresh carrot in this subtle sizzler from Hot Ones Jr. The spiciest Hot Ones Jr. sauce yet, it’s still supermild with kid- and mild spice lover-approved heat from the tiniest pinch of Smokin’ Ed Currie’s ghost pepper powder. Drizzle it on hummus and chips, BBQ chicken, sliders, salads - you name it. And yes, this sauce is tasty enough to convince kids and even produce-averse adults to eat their veggies! The color says it all - it’s our hottest, still mild Hot Ones Jr. sauce and has a sweet tart flavor with no added sugar. Adults will love it on Mediterranean wraps or rotisserie chicken, too. In this case, red means go! </span></p>",
+  "published_at": "2022-11-17T11:00:02-05:00",
+  "created_at": "2022-08-31T17:10:33-04:00",
+  "vendor": "Hot Ones",
+  "type": "Hot Sauce Single",
+  "tags": [
+    "hotsauce",
+    "subsauce",
+    "website"
+  ],
+  "price": 1000,
+  "price_min": 1000,
+  "price_max": 1000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 40007378042978,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "850044206063",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Hot Ones Jr. The Red | Hot Ones Hot Sauce",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 1000,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "HEAT-6063",
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+
+      ]
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-1.jpg?v=1668533069",
+    "//cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-4.jpg?v=1668533068",
+    "//cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-2.jpg?v=1668533069",
+    "//cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-3.jpg?v=1668533069"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-1.jpg?v=1668533069",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/hot-ones-jr-the-red-hot-ones-hot-sauce",
+  "media": [
+    {
+      "alt": null,
+      "id": 21356482429026,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.664,
+        "height": 2048,
+        "width": 1359,
+        "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-1.jpg?v=1668533069"
+      },
+      "aspect_ratio": 0.664,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-1.jpg?v=1668533069",
+      "width": 1359
+    },
+    {
+      "alt": null,
+      "id": 21356482461794,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.664,
+        "height": 2048,
+        "width": 1359,
+        "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-4.jpg?v=1668533068"
+      },
+      "aspect_ratio": 0.664,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-4.jpg?v=1668533068",
+      "width": 1359
+    },
+    {
+      "alt": null,
+      "id": 21356482494562,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.664,
+        "height": 2048,
+        "width": 1359,
+        "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-2.jpg?v=1668533069"
+      },
+      "aspect_ratio": 0.664,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-2.jpg?v=1668533069",
+      "width": 1359
+    },
+    {
+      "alt": null,
+      "id": 21356482527330,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.664,
+        "height": 2048,
+        "width": 1359,
+        "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-3.jpg?v=1668533069"
+      },
+      "aspect_ratio": 0.664,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Jr-The-Red-Hot-Sauce-6-oz-3.jpg?v=1668533069",
+      "width": 1359
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+
+  ]
+}
